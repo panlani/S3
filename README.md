@@ -27,3 +27,4 @@ If a S3 bucket already exists, you will need to import it. Like this:
 terraform import module.s3-buckets.aws_s3_bucket.this[0] corp-dev-bucket1
 ```
 "# S3" 
+"# s3" 
